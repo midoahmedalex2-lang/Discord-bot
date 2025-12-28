@@ -10,7 +10,7 @@ def home(): return "Bot is awake!"
 def run_web(): app.run(host='0.0.0.0', port=8080)
 
 # --- BOT CONFIGURATION ---
-TOKEN = 'YOUR_NEW_TOKEN_HERE' # Get a fresh one from Discord Portal!
+TOKEN = 'MTQ1NDc4MjEzNDcwNjM3MjcxMw.Gq_IN4.bE2jsbZhl3MuY0XiBX_uIGEoziFnOMh5pfLDGo' # Get a fresh one from Discord Portal!
 MONITOR_CHANNEL_ID = 1289705151027875972  
 SAVE_CHANNEL_ID = 1454783709298561085     
 FILE_NAME = "Trade_Logs.txt"
